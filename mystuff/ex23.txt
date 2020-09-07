@@ -1,0 +1,8 @@
+class
+call
+shuffle
+primitve
+#=>
+seq
++rng+
++self+
